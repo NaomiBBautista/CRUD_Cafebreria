@@ -5,8 +5,8 @@ Este proyecto fue creado como entregable final del segundo semestre en la materi
 
 CRUD Cafebrería:
 
-![Imagen del CRUD](img1.png)
+![Imagen del CRUD](imagenes/img1.png)
 
 TIC TAC TOE:
 
-![Imagen del Tic Tac Toe](img2.png)
+![Imagen del Tic Tac Toe](imagenes/img2.png)
