@@ -1,0 +1,35 @@
+C:\Users\naomi\source\repos\3P_Proyectito 1\bin\Debug\3P_Proyectito 1.exe.config
+C:\Users\naomi\source\repos\3P_Proyectito 1\bin\Debug\3P_Proyectito 1.exe
+C:\Users\naomi\source\repos\3P_Proyectito 1\bin\Debug\3P_Proyectito 1.pdb
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\3P_Proyectito 1.csproj.AssemblyReference.cache
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\3P_Proyectito 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\MainWindow.g.cs
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\App.g.cs
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\3P_Proyectito 1_MarkupCompile.cache
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\3P_Proyectito 1_MarkupCompile.lref
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\MainWindow.baml
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\3P_Proyectito 1.g.resources
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\_3P_Proyectito_1.Properties.Resources.resources
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\3P_Proyectito 1.csproj.GenerateResource.cache
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\3P_Proyectito 1.csproj.CoreCompileInputs.cache
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\3P_Proyectito 1.exe
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\3P_Proyectito 1.pdb
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\Tic Tac Toe.g.cs
+C:\Users\naomi\source\repos\3P_Proyectito 1\obj\Debug\Tic Tac Toe.baml
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\bin\Debug\3P_Proyectito 1.exe.config
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\bin\Debug\3P_Proyectito 1.exe
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\bin\Debug\3P_Proyectito 1.pdb
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\obj\Debug\3P_Proyectito 1.csproj.AssemblyReference.cache
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\obj\Debug\MainWindow.g.cs
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\obj\Debug\Tic Tac Toe.g.cs
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\obj\Debug\App.g.cs
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\obj\Debug\3P_Proyectito 1_MarkupCompile.cache
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\obj\Debug\3P_Proyectito 1_MarkupCompile.lref
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\obj\Debug\MainWindow.baml
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\obj\Debug\Tic Tac Toe.baml
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\obj\Debug\3P_Proyectito 1.g.resources
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\obj\Debug\_3P_Proyectito_1.Properties.Resources.resources
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\obj\Debug\3P_Proyectito 1.csproj.GenerateResource.cache
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\obj\Debug\3P_Proyectito 1.csproj.CoreCompileInputs.cache
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\obj\Debug\3P_Proyectito 1.exe
+D:\ISSC_2Semestre\CRUD\CRUD\3P_Proyectito 1\3P_Proyectito 1\obj\Debug\3P_Proyectito 1.pdb
