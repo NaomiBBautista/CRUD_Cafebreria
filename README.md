@@ -5,4 +5,6 @@ Este proyecto fue creado como entregable final del segundo semestre en la materi
 
 CRUD Cafebrería:
 
-![Imagen del CRUD](imagenes/img1.png)
+<div align="center">
+    <img src="imagenes/img1.png" alt="Imagen del CRUD" />
+</div>
